@@ -1,0 +1,11 @@
+# Windows 客户端依赖（桌面自动化 Agent）
+pyautogui>=0.9.54
+pillow>=11.0.0
+openai>=1.0.0
+mss>=10.0.0
+pyperclip>=1.9.0
+
+# ui-tars 动作解析库：优先用项目内嵌源码安装
+#   Windows: install.bat
+#   Linux:   bash install.sh
+# 也可直接 pip install ui-tars>=0.5.1

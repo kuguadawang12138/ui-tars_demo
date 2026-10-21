@@ -1,0 +1,6 @@
+# Linux 服务器部署 UI-TARS 模型用（不含 pyautogui 等桌面依赖）
+openai>=1.0.0
+pillow>=11.0.0
+vllm>=0.6.0
+transformers>=4.45.0
+torch>=2.1.0
